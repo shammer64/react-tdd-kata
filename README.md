@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Getting Started
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- Components were generated using the [Generate React CLI](https://github.com/arminbro/generate-react-cli#readme).
+- Tests are written using the [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/).
 
 ## Available Scripts
 
