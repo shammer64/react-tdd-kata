@@ -1,5 +1,4 @@
 import React from 'react';
-import PropTypes from 'prop-types';
 import './ToDoListItems.css';
 
 const ToDoListItems = () => (
@@ -7,9 +6,5 @@ const ToDoListItems = () => (
     ToDoListItems Component
   </div>
 );
-
-ToDoListItems.propTypes = {};
-
-ToDoListItems.defaultProps = {};
 
 export default ToDoListItems;
