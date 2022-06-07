@@ -4,6 +4,13 @@
 - Components were generated using the [Generate React CLI](https://github.com/arminbro/generate-react-cli#readme).
 - Tests are written using the [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/).
 
+## Helful VSCode Extensions
+
+- React Extension Pack 
+- Test Explorer UI
+- Jest Test Explorer
+- React Testing Library Cheatsheet
+
 ## Available Scripts
 
 In the project directory, you can run:
